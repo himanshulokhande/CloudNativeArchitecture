@@ -1,1 +1,1 @@
-CloudNativeArchitecture
+Labs for course Cloud Native Architecture
